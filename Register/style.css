@@ -1,13 +1,11 @@
 * {
     margin: 0px;
     padding: 0px;
-    background-color: linear-gradient( #03fff2cb 0%,#d645e9b6 90%);
-    
+    background-color: rgba(69, 205, 255, 0.948);
 }
 table{
            margin-top: 50px;
            text-align: center;
-           
 }
 
 #show th, #show td{
